@@ -37,13 +37,10 @@ p {
 .header {
     position: relative;
     height: 100vh;
-
     background: url("../img/strawberry.png") no-repeat 57%/cover;
-
 
     display: flex;
     flex-direction: column;
-
     text-align: center;
 }
 
@@ -211,9 +208,7 @@ p {
 
 .services__desc {
     flex-basis: 50%;
-
     background: url("../img/tomato.png") no-repeat center/50%;
-
     order: -1;
 }
 
@@ -253,9 +248,7 @@ p {
     height: 205vh;
     margin: 0 auto;
     text-align: center;
-
     background: url("../img/subscribe-bg.png") no-repeat center/100%;
-
     background-attachment: fixed;
 }
 
@@ -292,41 +285,31 @@ p {
 }
 
 .gallery-photo1 {
-
     background: url("../img/img-5.jpg") no-repeat center/cover;
-
     width: 70%;
     height: 20%;
 }
 
 .gallery-photo2 {
-
     background: url("../img/img-4.png") no-repeat center/cover;
-
     width: 60%;
     height: 15%;
 }
 
 .gallery-photo3 {
-
     background: url("../img/img-2.png") no-repeat center/cover;
-
     width: 70%;
     height: 15%;
 }
 
 .gallery-photo4 {
-
     background: url("../img/img-3.png") no-repeat center/cover;
-
     width: 60%;
     height: 15%;
 }
 
 .gallery-photo5 {
-
     background: url("../img/img-4.jpg") no-repeat center/cover;
-
     width: 70%;
     height: 15%;
 }
@@ -369,9 +352,7 @@ p {
     position: relative;
     display: flex;
     height: 50vh;
-
     background: url("../img/subscribe-bg.png") no-repeat center/100%;
-
     background-attachment: fixed;
 }
 
@@ -488,7 +469,6 @@ img {
 }
 
 .blog__image-1 {
-
     background: url("../img/blog-post-1.png") no-repeat center/cover;
 }
 
@@ -498,7 +478,6 @@ img {
 
 .blog__image-3 {
     background: url("../img/blog-post-3.png") no-repeat center/cover;
-
 }
 
 .blog__btn {
@@ -589,7 +568,6 @@ img {
     max-width: 1920px;
     margin: 0 auto;
     height: 100vh;
-
     background: url("../img/bg-contact.png") no-repeat center/cover;
 
 }
@@ -711,10 +689,12 @@ img {
     position: absolute;
     bottom: 50%;
     left: 2%;
+    z-index: 10;
 }
 
 .next {
     position: absolute;
     bottom: 50%;
     right: 2%;
+    z-index: 10;
 }
