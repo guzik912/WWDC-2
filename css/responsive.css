@@ -1,0 +1,1326 @@
+@media(min-width:360px) {
+    /****  GALLERY  ****/
+
+    .gallery {
+        height: 195vh;
+    }
+}
+
+@media (min-width:375px) {
+    /****  HEADER  ****/
+
+    .header__content-title {
+        font-size: 2.7rem;
+    }
+
+    .header-desc {
+        font-size: 1.3rem;
+    }
+
+    /******   ABOUT  ****/
+
+    .about-title {
+        font-size: 3.3rem;
+    }
+
+    .about-desc {
+        font-size: 1.6rem;
+        line-height: 2.1rem;
+    }
+
+
+    /**** GALLERY  ****/
+
+    .gallery {
+        height: 195vh;
+    }
+}
+
+
+@media (min-width:375px) and (height: 812px) {
+    /****  HEADER  ****/
+
+    .header {
+        background-position: 58%;
+    }
+
+    .header__logo {
+        font-size: 3.2rem;
+    }
+
+    .header__nav a {
+        font-size: 1.7rem;
+    }
+
+    .header__content-title {
+        font-size: 3rem;
+    }
+
+    .header-desc {
+        font-size: 1.6rem;
+    }
+
+    .header__btn {
+        padding: 8px;
+    }
+
+    /******   ABOUT  ****/
+
+    .about-title {
+        font-size: 3.3rem;
+    }
+
+    .about-desc {
+        font-size: 1.9rem;
+        line-height: 2.4rem;
+    }
+
+    /****  SERVICES  ****/
+
+    .services__btn {
+        font-size: 1.1rem;
+
+    }
+
+    .fas {
+        font-size: 2.2rem;
+    }
+
+    /****  GALLERY   ****/
+
+    .gallery {
+        height: 190vh;
+    }
+
+    .gallery__title {
+        font-size: 4.4rem;
+    }
+
+    .gallery__desc {
+        font-size: 1.6rem;
+    }
+
+    .gallery-photo1 {
+        width: 80%;
+    }
+
+    .gallery__btn {
+        font-size: 1.7rem;
+    }
+
+}
+
+@media (min-width:411px) {
+    /****  HEADER  ****/
+
+    .header {
+        background-position: 58%;
+    }
+
+    .header__logo {
+        font-size: 3.2rem;
+    }
+
+    .header__nav a {
+        font-size: 1.7rem;
+    }
+
+    .header__content-title {
+        font-size: 3rem;
+    }
+
+    .header-desc {
+        font-size: 1.6rem;
+    }
+
+    .header__btn {
+        padding: 8px;
+    }
+
+    /******   ABOUT  ****/
+
+    .about-title {
+        font-size: 3.2rem;
+    }
+
+    .about-desc {
+        font-size: 1.9rem;
+        line-height: 2.4rem;
+    }
+
+    /****  SERVICES  ****/
+
+    .services__btn {
+        font-size: 1.1rem;
+
+    }
+
+    .fas {
+        font-size: 2.3rem;
+    }
+
+
+    /****   GALLERY   ***/
+
+
+    .gallery__title {
+        font-size: 4.2rem;
+    }
+
+    .gallery__desc {
+        font-size: 1.4rem;
+    }
+
+    .gallery {
+        height: 190vh;
+    }
+
+    .gallery__btn {
+        font-size: 1.7rem;
+    }
+}
+
+@media (width: 411px) and (height: 823px) {
+    /******   ABOUT  ****/
+
+    .about-title {
+        font-size: 3.5rem;
+    }
+
+    .about-desc {
+        font-size: 2.2rem;
+        line-height: 2.7rem;
+    }
+
+    /****  SERVICES  ****/
+
+    .services__btn {
+        font-size: 1.2rem;
+    }
+}
+
+@media (min-width:768px) {
+
+    /****  HEADER  ****/
+    .header {
+        background-position: 52%;
+    }
+
+    .header__logo {
+        font-size: 5rem;
+        padding: 20px 0;
+    }
+
+    .header__nav li {
+        display: inline-block;
+        width: 15%;
+    }
+
+    .header__nav a {
+        font-size: 2.3rem;
+    }
+
+    .header__content {
+        margin-top: 30%;
+    }
+
+    .header__content-title {
+        font-size: 5rem;
+    }
+
+    .header-desc {
+        font-size: 2.2rem;
+        padding: 30px 0;
+        line-height: 3rem;
+    }
+
+    .header__btn {
+        padding: 15px 20px;
+        font-size: 1.7rem;
+    }
+
+    /******   ABOUT  ****/
+
+    .about-title {
+        font-size: 6rem;
+    }
+
+    .about-desc {
+        font-size: 2.7rem;
+        line-height: 3.2rem;
+    }
+
+    /****  SERVICES  ****/
+
+    .services__btn {
+        font-size: 1.9rem;
+
+    }
+
+    .fas {
+        font-size: 3rem;
+    }
+
+    .services-title {
+        font-size: 9rem;
+    }
+
+    /****   GALLERY   ***/
+
+    .gallery__title {
+        font-size: 6rem;
+    }
+
+    .gallery__desc {
+        font-size: 2rem;
+    }
+
+    .gallery {
+        height: 210vh;
+    }
+
+    .gallery-photo-container {
+        height: 175vh;
+    }
+
+    .gallery__btn {
+        font-size: 2.2rem;
+        padding: 15px 25px;
+    }
+
+    /*****   SUBSCRIBE   ****/
+    .subscribe__title {
+        font-size: 5rem;
+    }
+
+    .subscribe__desc {
+        font-size: 2rem;
+    }
+
+    .subscribe__input {
+        width: 50%;
+        font-size: 1.8rem;
+    }
+
+    ::placeholder {
+        font-size: 1.8rem;
+        padding: 10px 0;
+    }
+
+    .subscribe__btn {
+        font-size: 2rem;
+        width: 30%;
+        padding: 10px;
+    }
+
+    /*****  BLOG  *****/
+
+    .blog__title {
+        font-size: 6rem;
+    }
+
+    .blog__desc {
+        font-size: 3rem;
+    }
+
+    .blog-image-date {
+        padding: 10px;
+        font-size: 3rem;
+    }
+
+    .blog-image-desc {
+        font-size: 2.8rem;
+        line-height: 3.3rem;
+        padding: 10px 25px;
+    }
+
+    .blog-image-desc span {
+        font-size: 1.5rem;
+    }
+
+    .blog__btn {
+        font-size: 2rem;
+    }
+
+    /****  CONTACT  ****/
+    .contact__title {
+        font-size: 6rem;
+    }
+
+    .contact__desc {
+        font-size: 3rem;
+    }
+
+    .contact__form input,
+    .contact__form textarea {
+        padding: 10px;
+    }
+
+    .contact__details {
+        font-size: 2.8rem;
+    }
+
+
+    /****  FOOTER  ****/
+    .footer__desc {
+        font-size: 1.8rem;
+    }
+
+    .footer-center {
+        font-size: 2.8rem;
+    }
+}
+
+@media (min-width:1024px) {
+
+    /****  HEADER  ****/
+
+    .header__logo {
+        font-size: 6rem;
+        padding: 30px 0;
+    }
+
+    .header__nav a {
+        font-size: 2.8rem;
+    }
+
+    .header__content {
+        margin-top: 35%;
+    }
+
+    .header__content-title {
+        font-size: 6rem;
+    }
+
+    .header-desc {
+        font-size: 2.8rem;
+        line-height: 3.5rem;
+    }
+
+    .header__btn {
+        padding: 15px 20px;
+        font-size: 2rem;
+    }
+
+    /******   ABOUT  ****/
+
+    .about-title {
+        font-size: 7rem;
+    }
+
+    .about-desc {
+        font-size: 3.2rem;
+        line-height: 3.7rem;
+    }
+
+    /****  SERVICES  ****/
+
+    .services__btn {
+        font-size: 2rem;
+
+    }
+
+    .fas {
+        font-size: 4rem;
+    }
+
+
+    .services-title {
+        font-size: 10rem;
+    }
+
+    /****   GALLERY   ***/
+
+    .gallery__title {
+        font-size: 8.5rem;
+    }
+
+    .gallery__desc {
+        font-size: 3rem;
+    }
+
+    .gallery__btn {
+        font-size: 2.4rem;
+    }
+
+    /*****   SUBSCRIBE   ****/
+
+    .subscribe-container {
+        width: 70%;
+    }
+
+    .subscribe__title {
+        font-size: 5.5rem;
+    }
+
+    .subscribe__desc {
+        font-size: 2.2rem;
+    }
+
+    .subscribe__input {
+        width: 60%;
+        font-size: 2.2rem;
+    }
+
+    .subscribe__btn {
+        font-size: 2.2rem;
+        width: 30%;
+        padding: 10px;
+    }
+
+    /*****  BLOG  *****/
+
+    .blog__title {
+        font-size: 7rem;
+    }
+
+    .blog__desc {
+        font-size: 3.5rem;
+    }
+
+    .blog-image-date {
+        font-size: 3.5rem;
+    }
+
+    .blog-image-desc {
+        font-size: 3.2rem;
+        line-height: 3.7rem;
+        padding: 20px 30px;
+    }
+
+    .blog-image-desc span {
+        font-size: 1.8rem;
+    }
+
+    /****  CONTACT  ****/
+    .contact__title {
+        font-size: 7rem;
+    }
+
+    .contact__desc {
+        font-size: 3.5rem;
+    }
+
+    .contact__form input,
+    .contact__form textarea {
+        padding: 20px 10px;
+    }
+
+    .contact__details {
+        font-size: 3.5rem;
+    }
+
+    /****  FOOTER  ****/
+    .footer__desc {
+        font-size: 2.2rem;
+    }
+
+    .footer-center {
+        font-size: 3rem;
+    }
+}
+
+@media (orientation: landscape) {
+
+    /*****  HEADER  *****/
+    .header {
+        flex-flow: row wrap;
+        background-position: center;
+    }
+
+    .header__logo {
+        font-size: 3.8rem;
+        padding: 10px 10px 10px 15px;
+        margin: 0;
+        flex-basis: 20%;
+    }
+
+    .header__nav {
+        flex-grow: 1;
+    }
+
+    .header__nav ul {
+        display: flex;
+        justify-content: space-around;
+        height: 100%;
+    }
+
+
+    .header__nav a {
+        font-size: 1.5rem;
+        padding: 30px 5px 0;
+    }
+
+    .header__content {
+        margin: 15px;
+        align-self: flex-end;
+    }
+
+    .header__content-title {
+        font-size: 3.5rem;
+    }
+
+    .header-desc {
+        font-size: 1.4rem;
+        line-height: 2rem;
+    }
+
+    .header__btn {
+        padding: 10px 15px;
+        font-size: 1rem;
+    }
+
+    /*****  ABOUT   ****/
+
+    .about {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .about__img {
+        flex-basis: 40%;
+        display: flex;
+    }
+
+    .about__desc-container {
+        flex-basis: 50%;
+    }
+
+    .about-title {
+        font-size: 3rem;
+    }
+
+
+    .about-desc {
+        font-size: 1.4rem;
+        line-height: 2rem;
+        text-align: left;
+    }
+
+    /*****   SERVICES    *****/
+
+    .services {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .btn-container {
+        margin: 0;
+        padding-bottom: 0;
+        flex-basis: 30%;
+        justify-content: center;
+    }
+
+    .services__btn {
+        margin: 5px 0;
+        height: 15vh;
+        font-size: .9rem;
+    }
+
+    .services__desc {
+        flex-basis: 50%;
+        order: 0;
+    }
+
+    .services-title {
+        line-height: 100vh;
+        font-size: 5rem;
+    }
+
+    /*****   GALLERY   ****/
+
+    .gallery {
+        height: 200vh;
+    }
+
+    .gallery-photo-container {
+        height: 140vh;
+        margin: 40px auto 0;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: center;
+    }
+
+    .gallery-photo1 {
+        width: 50%;
+        height: 50%;
+    }
+
+    .gallery-photo2 {
+        width: 40%;
+        height: 40%;
+        align-self: flex-start;
+    }
+
+    .gallery-photo3 {
+        width: 30%;
+        height: 20%;
+        align-self: flex-end;
+    }
+
+    .gallery-photo4 {
+        width: 30%;
+        height: 20%;
+        align-self: flex-end;
+    }
+
+    .gallery-photo5 {
+        width: 40%;
+        height: 40%;
+    }
+
+    /*****   SUBSCRIBE   ****/
+    .subscribe {
+        height: 60vh;
+    }
+
+    .subscribe-container {
+        width: 80%;
+        height: 50%;
+    }
+
+    .subscribe__title {
+        font-size: 3rem;
+    }
+
+    .subscribe__desc {
+        font-size: 1.3rem;
+        width: 50%;
+    }
+
+    .subscribe__input {
+        font-size: 1.3rem;
+        width: 50%;
+    }
+
+    ::placeholder {
+        font-size: 1.3rem;
+    }
+
+    .subscribe__btn {
+        font-size: 1.3rem;
+        width: 20%;
+        padding: 5px 10px;
+    }
+
+    /****   BLOG   ****/
+
+    .blog-container {
+        height: 140vh;
+    }
+
+    .blog-image-container {
+        flex-basis: 60%;
+        width: 70%;
+    }
+
+    .blog__title {
+        font-size: 3.5rem;
+    }
+
+    .blog__desc {
+        font-size: 1.5rem;
+    }
+
+    .blog-image-date {
+        font-size: 2rem;
+    }
+
+    .blog-image-desc {
+        font-size: 1.5rem;
+        line-height: 2rem;
+        padding: 15px 20px;
+    }
+
+    .blog-image-desc span {
+        font-size: 1rem;
+    }
+
+    /**** CONTACT  ****/
+    .contact {
+        height: 130vh;
+    }
+
+    .contact-container {
+        height: 130vh;
+    }
+
+}
+
+@media(orientation: landscape) and (min-width: 568px) {
+
+    /*****   SERVICES   ****/
+
+    .services__btn {
+        font-size: .8rem;
+    }
+
+    .services__desc {
+        padding-left: 15px;
+    }
+
+    .services-title {
+        font-size: 4.6rem;
+    }
+
+    /****  GALLERY  ****/
+
+    .gallery {
+        height: 230vh;
+    }
+
+    .gallery__title {
+        font-size: 4rem;
+    }
+
+    .gallery__desc {
+        font-size: 1.3rem;
+    }
+
+    .gallery__btn {
+        font-size: 1.3rem;
+        padding: 10px 20px;
+        margin-top: 60px;
+    }
+
+    /**** CONTACT  ****/
+    .contact {
+        height: 150vh;
+    }
+
+    .contact-container {
+        height: 150vh;
+    }
+}
+
+@media(orientation: landscape) and (min-width: 731px) {
+    /****   GALLERY  ****/
+
+    .gallery {
+        height: 220vh;
+    }
+
+    .gallery__btn {
+        margin-top: 80px;
+    }
+
+}
+
+@media (orientation: landscape) and (min-width: 736px) {
+
+    /*****  HEADER  ****/
+
+    .header__content {
+        margin: 40px 30px;
+    }
+
+    .header__content-title {
+        font-size: 3.5rem;
+    }
+
+    .header-desc {
+        font-size: 1.6rem;
+        line-height: 2.1rem;
+    }
+
+    .header__btn {
+        padding: 10px 20px;
+        font-size: 1.1rem;
+    }
+
+    /*****   SERVICES   ****/
+
+    .services__btn {
+        font-size: .9rem;
+    }
+
+    /****  GALLERY  ****/
+
+    .gallery {
+        height: 220vh;
+    }
+
+    .gallery__title {
+        font-size: 4.2rem;
+    }
+
+    .gallery__desc {
+        font-size: 1.5rem;
+    }
+}
+
+@media (orientation: landscape) and (min-width: 812px) {
+
+    /*****  HEADER  ****/
+
+    .header__logo {
+        font-size: 4.3rem;
+    }
+
+    .header__nav a {
+        font-size: 1.8rem;
+    }
+
+    .header-desc {
+        font-size: 1.7rem;
+        line-height: 2.2rem;
+    }
+
+    .header__btn {
+        font-size: 1.2rem;
+    }
+
+    /****  GALLERY  ****/
+
+    .gallery {
+        height: 230vh;
+    }
+
+    /****  BLOG  ****/
+
+    .blog__btn {
+        font-size: 1.2rem;
+    }
+
+    /**** CONTACT  ****/
+
+    .contact__title {
+        font-size: 4rem;
+    }
+
+    .contact__desc {
+        font-size: 1.7rem;
+    }
+
+    .contact__details {
+        font-size: 1.8rem;
+    }
+
+    /****  FOOTER  ****/
+
+    .footer__desc {
+        font-size: 1.2rem;
+    }
+
+    .footer-center {
+        font-size: 1.8rem;
+    }
+}
+
+@media (orientation: landscape) and (min-width: 1024px) {
+
+    /*****  HEADER  ****/
+
+    .header__logo {
+        font-size: 7rem;
+    }
+
+    .header__nav a {
+        padding: 50px 5px 0;
+        font-size: 2.5rem;
+    }
+
+
+    .header__content-title {
+        font-size: 6rem;
+    }
+
+    .header-desc {
+        font-size: 2.8rem;
+        line-height: 3.5rem;
+    }
+
+    .header__btn {
+        font-size: 2rem;
+    }
+
+    /*****  ABOUT   ****/
+
+    .about-title {
+        font-size: 6rem;
+    }
+
+    .about-desc {
+        font-size: 2.2rem;
+        line-height: 2.6rem;
+    }
+
+    /*****   SERVICES    *****/
+
+    .services {
+        justify-content: flex-end;
+    }
+
+    .services__btn {
+        margin: 10px 0;
+        height: 10vh;
+        font-size: 1.2rem;
+    }
+
+    .services__desc {
+        flex-basis: 60%;
+    }
+
+    .services-title {
+        font-size: 7rem;
+    }
+
+    /****  GALLERY  ****/
+
+    .gallery {
+        height: 160vh;
+    }
+
+    .gallery-photo-container {
+        height: 110vh;
+    }
+
+    .gallery__title {
+        font-size: 6rem;
+    }
+
+    .gallery__desc {
+        font-size: 2rem;
+    }
+
+    .gallery__btn {
+        font-size: 1.8rem;
+    }
+
+    /*****   SUBSCRIBE   ****/
+    .subscribe {
+        height: 40vh;
+    }
+
+    .subscribe-container {
+        width: 70%;
+        height: 40%;
+    }
+
+    .subscribe__title {
+        font-size: 4rem;
+    }
+
+    .subscribe__desc {
+        font-size: 1.5rem;
+    }
+
+    .subscribe__input {
+        font-size: 1.5rem;
+    }
+
+    ::placeholder {
+        font-size: 1.5rem;
+    }
+
+    .subscribe__btn {
+        font-size: 1.5rem;
+    }
+
+    /****   BLOG   ****/
+
+    .blog-container {
+        height: 100vh;
+    }
+
+
+    .blog__title {
+        font-size: 4.7rem;
+    }
+
+    .blog__desc {
+        font-size: 2.2rem;
+    }
+
+    .blog-image-date {
+        font-size: 2.7rem;
+    }
+
+    .blog-image-desc {
+        font-size: 2rem;
+        line-height: 2.5rem;
+        padding: 15px 25px;
+    }
+
+    .blog-image-desc span {
+        font-size: 1.5rem;
+    }
+
+    .blog__btn {
+        font-size: 1.5rem;
+    }
+
+    /****  CONTACT  ****/
+
+    .contact__title {
+        font-size: 5rem;
+    }
+
+    .contact__desc {
+        width: 50%;
+        font-size: 2.2rem;
+    }
+
+    .contact__details {
+        font-size: 2.8rem;
+    }
+
+    /***** FOOTER  ***/
+
+    .footer__desc {
+        padding: 20px;
+        font-size: 2rem;
+        flex-basis: 40%;
+        text-align: center;
+    }
+
+    .footer-center {
+        font-size: 3rem;
+        flex-basis: 20%;
+    }
+
+}
+
+@media (orientation: landscape) and (min-width: 1366px) {
+
+    /*****  HEADER  ****/
+
+    .header__logo {
+        font-size: 8rem;
+    }
+
+    .header__nav a {
+        padding: 55px 5px 5px 0;
+        font-size: 3rem;
+        position: relative;
+        transition: .2s;
+        overflow: hidden;
+    }
+
+    .header__content {
+        margin: 80px;
+    }
+
+    .header__content-title {
+        font-size: 6.5rem;
+    }
+
+    .header-desc {
+        font-size: 2.6rem;
+        line-height: 4rem;
+    }
+
+    .header__btn {
+        padding: 15px 20px;
+        font-size: 2.2rem;
+    }
+
+    .header__nav a::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: -100%;
+        width: 100%;
+        height: 3px;
+        background-color: orangered;
+        transition: .2s;
+    }
+
+    .header__nav li:nth-child(2) a::after {
+        background-color: green;
+    }
+
+    .header__nav li:nth-child(3) a::after {
+        background-color: purple;
+    }
+
+
+    .header__nav li:nth-child(4) a::after {
+        background-color: lightskyblue;
+    }
+
+    .header__nav li:nth-child(5) a::after {
+        background-color: black;
+    }
+
+    .header__nav li:nth-child(6) a::after {
+        background-color: royalblue;
+    }
+
+    .header__nav a:hover::after {
+        left: 10%;
+        width: 80%;
+    }
+
+    /*****  ABOUT   ****/
+
+    .about-title {
+        font-size: 7rem;
+    }
+
+    .about-desc {
+        font-size: 2.9rem;
+        line-height: 3.6rem;
+    }
+
+    /*****   SERVICES    *****/
+
+    .services__btn {
+        margin: 15px 0;
+        height: 12vh;
+        font-size: 1.9rem;
+    }
+
+    .services-title {
+        font-size: 9rem;
+    }
+
+    /****  GALLERY  ****/
+
+    .gallery {
+        height: 150vh;
+    }
+
+    .gallery-photo-container {
+        height: 100vh;
+    }
+
+    .gallery__title {
+        font-size: 9rem;
+    }
+
+    .gallery__desc {
+        font-size: 2.3rem;
+        width: 40%;
+    }
+
+    .gallery__btn {
+        font-size: 2.5rem;
+        padding: 20px 30px;
+    }
+
+    /*****   SUBSCRIBE   ****/
+    .subscribe {
+        height: 50vh;
+    }
+
+    .subscribe-container {
+        height: 40%;
+    }
+
+    .subscribe__title {
+        font-size: 6rem;
+    }
+
+    .subscribe__desc {
+        font-size: 2.2rem;
+    }
+
+    .subscribe__input {
+        font-size: 2.2rem;
+    }
+
+    ::placeholder {
+        font-size: 2.2rem;
+    }
+
+    .subscribe__btn {
+        font-size: 2.2rem;
+        padding: 10px 15px;
+    }
+
+    /****   BLOG   ****/
+
+    .blog-container {
+        height: 100vh;
+    }
+
+    .blog-image-container {
+        width: 90%;
+    }
+
+
+    .blog__title {
+        font-size: 7rem;
+    }
+
+    .blog__desc {
+        font-size: 3rem;
+    }
+
+    .blog-image-date {
+        font-size: 4rem;
+    }
+
+    .blog-image-desc {
+        font-size: 3.2rem;
+        line-height: 3.7rem;
+        padding: 20px 30px;
+    }
+
+    .blog-image-desc span {
+        font-size: 1.5rem;
+    }
+
+    .blog__btn {
+        font-size: 2rem;
+        padding: 10px 20px;
+    }
+
+    /****   CONTACT  ****/
+
+    .contact {
+        height: 100vh;
+    }
+
+    .contact-container {
+        height: 100vh;
+        padding-top: 60px;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-content: flex-start;
+        flex-direction: row;
+    }
+
+    .contact__title {
+        font-size: 7rem;
+        width: 100%;
+        text-align: center;
+        padding: 0;
+    }
+
+    .contact__desc {
+        font-size: 3.2rem;
+        width: 100%;
+        padding: 40px 0;
+    }
+
+    .contact__form {
+        width: 50%;
+        align-self: flex-start;
+    }
+
+    .contact__details {
+        width: 30%;
+        align-self: flex-start;
+        text-align: left;
+        font-size: 2rem;
+    }
+
+    .contact__form input {
+        padding: 20px;
+    }
+
+    .contact__form input:focus {
+        border-left-width: 5px;
+    }
+
+
+    /***** FOOTER  ***/
+
+    .footer__desc {
+        padding: 30px 0;
+    }
+
+}
